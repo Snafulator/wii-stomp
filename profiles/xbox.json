@@ -1,0 +1,8 @@
+{
+	"name": "wii-stomp - Xbox 360 Controller",
+	"description": "Xbox 360 controller: lean moves the left stick, bashes press LB/RB, the power button toggles lean",
+	"device": "xbox",
+	"lean": true,
+	"bash": { "left": "LB", "right": "RB" },
+	"button": "toggle_lean"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "wii-stomp - KBM",
+	"description": "Keyboard/mouse for Darktide: left bash presses Space, right bash presses mouse 5",
+	"device": "kbm",
+	"lean": false,
+	"bash": { "left": "SPACE", "right": "MOUSE5" },
+	"button": "none"
+}
